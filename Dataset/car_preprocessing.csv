@@ -304,7 +304,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45800731,18817,738,CHEVROLET,Cruze,2017,Hatchback,Yes,Petrol,1.4,29094 km,4,Automatic,Front,4-May,Left wheel,Grey,0
 45813862,4861,382,FORD,Fusion,2015,Sedan,Yes,Hybrid,2,148709 km,4,Automatic,Front,4-May,Left wheel,Red,12
 45810175,13172,1399,LEXUS,RX 450,2010,Jeep,Yes,Hybrid,3.5,186005 km,6,Automatic,4x4,4-May,Left wheel,Silver,12
-45342484,37320,1055,MERCEDES-BENZ,E 350 ამგ,2013,Sedan,Yes,Petrol,3.5,156800 km,4,Tiptronic,4x4,4-May,Left wheel,Black,12
+45342484,37320,1055,MERCEDES-BENZ,E 350,2013,Sedan,Yes,Petrol,3.5,156800 km,4,Tiptronic,4x4,4-May,Left wheel,Black,12
 45751145,706,1017,FORD,Escape,2017,Jeep,Yes,Petrol,2,251430 km,4,Automatic,Front,4-May,Left wheel,Blue,12
 45504338,39201,456,TOYOTA,Camry,2015,Sedan,Yes,Hybrid,2.5,35000 km,4,Automatic,Front,4-May,Left wheel,Grey,10
 45797233,36426,880,HYUNDAI,Elantra,2018,Sedan,Yes,LPG,1.6,35643 km,4,Automatic,Front,4-May,Left wheel,White,4
@@ -948,7 +948,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45791947,17249,-,HONDA,Cr-v,2005,Jeep,No,Petrol,2.4,118000 km,4,Automatic,4x4,4-May,Left wheel,Silver,6
 45656054,34811,690,LEXUS,RX 450,2016,Jeep,Yes,Hybrid,3.5,0 km,6,Automatic,Front,4-May,Left wheel,Grey,12
 45772579,470,1017,MERCEDES-BENZ,E 300,2017,Sedan,Yes,Petrol,2,35874 km,4,Automatic,4x4,4-May,Left wheel,Black,12
-45799874,8467,-,BMW,318 სასწრაფოდ,2002,Coupe,Yes,Petrol,1.8,95000 km,4,Manual,Rear,2-Mar,Left wheel,Black,4
+45799874,8467,-,BMW,318,2002,Coupe,Yes,Petrol,1.8,95000 km,4,Manual,Rear,2-Mar,Left wheel,Black,4
 45776268,7840,-,ISUZU,Rodeo,2000,Jeep,No,Petrol,3.2,331000 km,6,Automatic,4x4,4-May,Left wheel,Carnelian red,6
 45802978,25810,642,HYUNDAI,Santa FE,2012,Jeep,Yes,Diesel,2,196764 km,4,Automatic,Front,4-May,Left wheel,Black,4
 44296233,60,-,MITSUBISHI,Pajero IO,2001,Jeep,No,Petrol,2,131000 km,4,Automatic,4x4,4-May,Left wheel,White,0
@@ -1127,7 +1127,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45757249,9565,2410,CHEVROLET,Camaro,2010,Coupe,Yes,Petrol,6.2,217786 km,8,Automatic,Rear,2-Mar,Left wheel,Blue,12
 45667236,17405,-,TOYOTA,Aqua,2012,Hatchback,No,Petrol,1.5,148000 km,4,Automatic,Front,4-May,Right-hand drive,Black,2
 44863934,21953,1620,MERCEDES-BENZ,Sprinter,2006,Microbus,No,Diesel,2.2 Turbo,100000 km,4,Manual,Rear,4-May,Left wheel,White,4
-45811575,54255,1848,MERCEDES-BENZ,S 550 ჰიბრიდი,2010,Sedan,Yes,Petrol,4.7,688000 km,6,Tiptronic,Rear,4-May,Left wheel,Black,12
+45811575,54255,1848,MERCEDES-BENZ,S 550,2010,Sedan,Yes,Petrol,4.7,688000 km,6,Tiptronic,Rear,4-May,Left wheel,Black,12
 37374797,16621,-,MERCEDES-BENZ,CLS 350,2004,Sedan,Yes,Petrol,3.5,211288 km,6,Tiptronic,Rear,4-May,Left wheel,Black,6
 45792712,45473,-,FORD,Transit 350T,2007,Microbus,No,Diesel,2.4 Turbo,290000 km,4,Manual,Rear,4-May,Left wheel,White,1
 45742210,31047,-,MERCEDES-BENZ,ML 350,2010,Jeep,Yes,Diesel,3,124000 km,6,Tiptronic,4x4,4-May,Left wheel,Grey,10
@@ -1366,7 +1366,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45768511,81539,1935,LEXUS,GX 460,2016,Jeep,Yes,Petrol,4.6,155976 km,8,Automatic,4x4,4-May,Left wheel,White,0
 45550809,24462,-,HYUNDAI,Santa FE,2010,Sedan,No,Petrol,2.4,170000 km,4,Tiptronic,Front,4-May,Left wheel,Silver,10
 43844862,8467,-,NISSAN,Altima,2006,Sedan,No,Petrol,2.5,160000 km,6,Automatic,Front,4-May,Left wheel,Black,6
-45695724,18189,697,VOLKSWAGEN,Jetta სპორტ,2015,Sedan,Yes,Petrol,1.8 Turbo,76800 km,4,Tiptronic,Front,4-May,Left wheel,Grey,8
+45695724,18189,697,VOLKSWAGEN,Jetta,2015,Sedan,Yes,Petrol,1.8 Turbo,76800 km,4,Tiptronic,Front,4-May,Left wheel,Grey,8
 45759761,7527,1848,MERCEDES-BENZ,E 220,1996,Sedan,No,Diesel,2.2,380000 km,4,Manual,Rear,4-May,Left wheel,Green,4
 43009722,19444,697,TOYOTA,Corolla LE,2015,Sedan,No,Petrol,1.8,68221 km,4,Automatic,Front,4-May,Left wheel,White,6
 45815359,47,1493,LEXUS,RX 350,2016,Jeep,Yes,Petrol,3.5,65981 km,6,Automatic,Front,4-May,Left wheel,Black,12
@@ -1388,7 +1388,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45617629,1098,394,TOYOTA,Camry,2014,Sedan,Yes,Hybrid,2.5,398069 km,4,Automatic,Front,4-May,Left wheel,Black,12
 45795868,43905,919,MERCEDES-BENZ,ML 350,2012,Jeep,Yes,Diesel,3,179520 km,6,Automatic,4x4,4-May,Left wheel,Blue,8
 45729788,20244,639,SSANGYONG,Korando,2014,Jeep,Yes,Diesel,2,42202 km,4,Automatic,Front,4-May,Left wheel,Grey,4
-45768964,9408,777,FORD,Transit Connect ბენზინი,2014,Goods wagon,No,Petrol,2.5,200968 km,4,Tiptronic,Front,4-May,Left wheel,White,4
+45768964,9408,777,FORD,Transit Connect,2014,Goods wagon,No,Petrol,2.5,200968 km,4,Tiptronic,Front,4-May,Left wheel,White,4
 45809589,10958,586,CHEVROLET,Cruze,2012,Sedan,Yes,Petrol,1.8,156779 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45660798,470,831,HYUNDAI,Sonata,2011,Jeep,Yes,Hybrid,2.4,278989 km,4,Automatic,Front,4-May,Left wheel,Blue,0
 45804585,21181,707,HYUNDAI,Tucson,2011,Jeep,Yes,Diesel,2,114000 km,4,Automatic,Front,4-May,Left wheel,Grey,4
@@ -2357,9 +2357,8 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45418057,10349,-,HONDA,FIT,2005,Hatchback,No,Petrol,1.3,156000 km,4,Automatic,Front,4-May,Right-hand drive,Silver,4
 45762493,26657,-,BMW,528,2011,Sedan,Yes,Petrol,3,125000 km,6,Tiptronic,Rear,4-May,Left wheel,Silver,16
 45803214,10036,5603,HYUNDAI,Sonata,2014,Sedan,Yes,LPG,20,333686 km,4,Automatic,Front,4-May,Left wheel,Silver,4
-45779593,25089,-,სხვა,IVECO DAYLY,2007,Microbus,No,Diesel,2.3 Turbo,328000 km,4,Manual,Rear,4-May,Left wheel,White,1
 45765640,19130,1194,TOYOTA,Tacoma,2013,Sedan,Yes,Petrol,4,57554 km,6,Automatic,4x4,4-May,Left wheel,Silver,12
-45319704,21500,-,MERCEDES-BENZ,ML 280 სასწრაფოდ,2007,Jeep,Yes,Diesel,3,215000 km,6,Automatic,4x4,4-May,Left wheel,Silver,8
+45319704,21500,-,MERCEDES-BENZ,ML 280,2007,Jeep,Yes,Diesel,3,215000 km,6,Automatic,4x4,4-May,Left wheel,Silver,8
 45646971,3450,607,TOYOTA,Camry,2019,Sedan,Yes,Hybrid,2.5,9626 km,4,Automatic,Front,4-May,Left wheel,Black,12
 45661054,26657,919,MERCEDES-BENZ,ML 350,2012,Jeep,Yes,Diesel,3,271701 km,6,Automatic,4x4,4-May,Left wheel,White,12
 45811124,14426,1399,LEXUS,RX 450,2010,Jeep,Yes,Hybrid,3.5,249112 km,6,Automatic,4x4,4-May,Left wheel,Grey,0
@@ -4791,7 +4790,6 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 44914567,56450,-,BMW,X5,2013,Jeep,Yes,Diesel,3.0 Turbo,121000 km,6,Automatic,4x4,4-May,Left wheel,Grey,12
 45793236,18660,890,CHEVROLET,Orlando,2016,Jeep,Yes,Petrol,2,29703 km,4,Automatic,Front,4-May,Left wheel,White,4
 45792177,20071,890,KIA,Optima,2016,Sedan,Yes,Petrol,2,30662 km,4,Automatic,Front,4-May,Left wheel,White,4
-39223518,9408,-,სხვა,GONOW,2005,Jeep,Yes,Petrol,2.3,102000 km,4,Manual,Rear,4-May,Left wheel,Silver,2
 45755553,8467,784,CHEVROLET,Matiz,2006,Hatchback,No,LPG,1,132000 km,3,Automatic,Front,4-May,Left wheel,Black,4
 45768087,1568,1172,TOYOTA,Highlander,2011,Jeep,Yes,Hybrid,3.5,342622 km,6,Automatic,4x4,4-May,Left wheel,Black,12
 45661040,941,1356,MERCEDES-BENZ,ML 350,2014,Jeep,Yes,Diesel,4.6,229966 km,8,Automatic,4x4,4-May,Left wheel,Black,12
@@ -5074,7 +5072,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45787393,6899,-,CHRYSLER,PT Cruiser,2002,Hatchback,No,Petrol,2,99000 km,4,Tiptronic,Front,4-May,Right-hand drive,Green,4
 44922837,8311,-,SUZUKI,CERVO,2010,Universal,No,Petrol,0.6,101000 km,4,Manual,4x4,2-Mar,Right-hand drive,White,2
 45732670,15323,836,HYUNDAI,Sonata,2010,Sedan,Yes,Petrol,2,170341 km,4,Automatic,Front,4-May,Left wheel,White,4
-45703117,25089,917,MERCEDES-BENZ,Sprinter Maxi-ს Max,2013,Microbus,Yes,Diesel,3.0 Turbo,328000 km,6,Tiptronic,Rear,4-May,Left wheel,White,6
+45703117,25089,917,MERCEDES-BENZ,Sprinter Max,2013,Microbus,Yes,Diesel,3.0 Turbo,328000 km,6,Tiptronic,Rear,4-May,Left wheel,White,6
 45764813,188,1659,TOYOTA,Tundra,2014,Jeep,Yes,Petrol,5.7,101928 km,8,Automatic,4x4,4-May,Left wheel,Black,12
 45795498,15681,-,MERCEDES-BENZ,E 270,2002,Sedan,Yes,Diesel,2.7 Turbo,306089 km,5,Tiptronic,Rear,4-May,Left wheel,Blue,12
 45815331,5800,-,OPEL,Zafira,1999,Minivan,No,CNG,1.8,0 km,4,Manual,Front,4-May,Left wheel,White,2
@@ -5161,7 +5159,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45801961,32929,880,HYUNDAI,Elantra,2018,Sedan,Yes,Petrol,1.6,54865 km,4,Automatic,Front,4-May,Left wheel,Grey,4
 45430588,11290,-,SUZUKI,SX4,2008,Jeep,No,Petrol,2,123000 km,4,Automatic,4x4,4-May,Left wheel,Black,6
 45465063,19444,1079,TOYOTA,CHR,2018,Jeep,Yes,Petrol,2,40272 km,4,Automatic,Front,4-May,Left wheel,Grey,12
-45811556,24775,-,LEXUS,IS 250 რესტაილინგი,2011,Sedan,Yes,Petrol,2.5,138000 km,6,Tiptronic,Rear,4-May,Left wheel,Grey,10
+45811556,24775,-,LEXUS,IS 250,2011,Sedan,Yes,Petrol,2.5,138000 km,6,Tiptronic,Rear,4-May,Left wheel,Grey,10
 45773694,220,753,HYUNDAI,Tucson,2012,Jeep,Yes,Petrol,2.4,221126 km,4,Automatic,Front,4-May,Left wheel,Black,0
 45730377,20266,640,SSANGYONG,REXTON,2013,Jeep,Yes,Diesel,2,376356 km,4,Automatic,Front,4-May,Left wheel,Silver,4
 45732562,37163,696,HYUNDAI,Santa FE,2013,Jeep,Yes,Diesel,2.2,42857 km,4,Automatic,Front,4-May,Left wheel,Blue,4
@@ -5207,7 +5205,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45766185,392,585,HYUNDAI,Elantra,2013,Jeep,Yes,Petrol,1.8,0 km,4,Automatic,Front,4-May,Left wheel,Silver,12
 45816078,549,1202,HYUNDAI,Santa FE,2017,Sedan,Yes,Petrol,2.4,96790 km,4,Automatic,Front,4-May,Left wheel,Black,12
 45768377,30734,2151,LEXUS,GX 470,2009,Jeep,Yes,Petrol,4.7,264339 km,8,Automatic,4x4,4-May,Left wheel,Black,0
-45784331,24148,-,TOYOTA,Prius ფლაგინი,2012,Hatchback,Yes,Plug-in Hybrid,1.8,262400 km,4,Automatic,Front,4-May,Left wheel,Silver,12
+45784331,24148,-,TOYOTA,Prius,2012,Hatchback,Yes,Plug-in Hybrid,1.8,262400 km,4,Automatic,Front,4-May,Left wheel,Silver,12
 45694878,8311,-,MITSUBISHI,Outlander,2002,Jeep,No,CNG,2.4,240000 km,4,Tiptronic,Front,4-May,Left wheel,White,4
 45804862,29144,891,HYUNDAI,Tucson,2016,Jeep,Yes,Diesel,2,42765 km,4,Automatic,Front,4-May,Left wheel,White,4
 45761054,470,531,NISSAN,Juke,2012,Jeep,Yes,Petrol,1.6,136712 km,4,Automatic,4x4,4-May,Left wheel,White,0
@@ -6009,7 +6007,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45767438,314,2410,MERCEDES-BENZ,E 350,2010,Sedan,Yes,Diesel,6.2,274771 km,8,Automatic,Rear,4-May,Left wheel,White,12
 45742505,4200,-,MERCEDES-BENZ,A 160,2002,Hatchback,Yes,Petrol,1.6,0 km,4,Automatic,Front,4-May,Left wheel,White,6
 45807148,19914,-,FORD,Transit T330,2004,Microbus,No,Diesel,2.4 Turbo,162541 km,4,Manual,Rear,2-Mar,Left wheel,Red,4
-43908528,16621,761,TOYOTA,Prius ჰიბრიდი,2010,Hatchback,No,Hybrid,1.8,120000 km,4,Variator,Front,4-May,Left wheel,Silver,12
+43908528,16621,761,TOYOTA,Prius,2010,Hatchback,No,Hybrid,1.8,120000 km,4,Variator,Front,4-May,Left wheel,Silver,12
 45772722,157,1363,LEXUS,GX 460,2012,Jeep,Yes,Petrol,4.6,189704 km,8,Automatic,4x4,4-May,Left wheel,Grey,0
 45792139,11917,911,KIA,Cadenza,2011,Sedan,Yes,Petrol,2.7,42496 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45760677,7213,1111,HONDA,FIT,2012,Hatchback,No,Hybrid,1.3,135000 km,4,Automatic,Front,4-May,Right-hand drive,Silver,2
@@ -6095,7 +6093,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45728483,54167,971,SSANGYONG,REXTON,2016,Jeep,Yes,Diesel,2.2,82907 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45797955,16894,583,HYUNDAI,Elantra,2011,Sedan,Yes,Petrol,1.6,104090 km,4,Automatic,Front,4-May,Left wheel,White,4
 45656731,706,585,TOYOTA,Prius,2013,Hatchback,Yes,Hybrid,1.8,105328 km,4,Automatic,Front,4-May,Left wheel,White,12
-45382432,109764,-,MERCEDES-BENZ,X 250 ევროპული,2018,Pickup,Yes,Diesel,2.5 Turbo,43000 km,8,Automatic,4x4,4-May,Left wheel,Blue,0
+45382432,109764,-,MERCEDES-BENZ,X 250,2018,Pickup,Yes,Diesel,2.5 Turbo,43000 km,8,Automatic,4x4,4-May,Left wheel,Blue,0
 45522622,12858,-,VOLKSWAGEN,Golf,2007,Hatchback,No,Petrol,2.5,15000 km,4,Manual,Front,4-May,Left wheel,Black,10
 45730989,19613,836,HYUNDAI,Genesis,2010,Coupe,Yes,Petrol,2,104022 km,4,Automatic,Front,4-May,Left wheel,White,4
 45644169,21012,-,LEXUS,CT 200h,2012,Hatchback,Yes,Hybrid,1.5,158000 km,4,Automatic,Front,4-May,Left wheel,White,10
@@ -6161,7 +6159,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45732867,10036,639,HYUNDAI,Sonata,2014,Sedan,Yes,LPG,2,389854 km,4,Automatic,Front,4-May,Left wheel,Silver,4
 45786361,16308,473,CHEVROLET,Cruze,2014,Sedan,No,Petrol,1.4 Turbo,152000 km,4,Tiptronic,Front,4-May,Left wheel,White,6
 45727410,19579,707,SSANGYONG,Korando,2011,Jeep,Yes,Diesel,2,155420 km,4,Automatic,Front,4-May,Left wheel,Silver,4
-45716976,17500,-,FORD,Escape მერკური მერინერი,2008,Jeep,No,Hybrid,2.3,186254 km,4,Variator,4x4,4-May,Left wheel,Sky blue,4
+45716976,17500,-,FORD,Escape,2008,Jeep,No,Hybrid,2.3,186254 km,4,Variator,4x4,4-May,Left wheel,Sky blue,4
 45813517,470,1308,BMW,650,2012,Coupe,Yes,Petrol,4.4,0 km,8,Automatic,Rear,2-Mar,Left wheel,Blue,12
 45808710,46414,1079,PORSCHE,macan,2018,Sedan,Yes,Petrol,2,28840 km,4,Automatic,4x4,4-May,Left wheel,Blue,12
 45732563,33378,694,HYUNDAI,Santa FE,2014,Jeep,Yes,Diesel,2.2,51905 km,4,Automatic,Front,4-May,Left wheel,White,4
@@ -6260,7 +6258,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45815524,25089,753,HYUNDAI,Tucson,2012,Jeep,Yes,Petrol,2.4,159000 km,6,Automatic,Front,2-Mar,Left wheel,Black,10
 45767957,2038,353,TOYOTA,Prius,2015,Jeep,Yes,Hybrid,1.8,104795 km,4,Automatic,Front,4-May,Left wheel,White,12
 45770443,4400,-,VAZ,2107,2005,Sedan,No,Petrol,1.7,125000 km,4,Manual,Rear,4-May,Left wheel,White,0
-45593732,50,-,MERCEDES-BENZ,Sprinter სატვირთო,2002,Goods wagon,No,Diesel,2.2 Turbo,240000 km,4,Manual,Rear,4-May,Left wheel,White,2
+45593732,50,-,MERCEDES-BENZ,Sprinter,2002,Goods wagon,No,Diesel,2.2 Turbo,240000 km,4,Manual,Rear,4-May,Left wheel,White,2
 45813918,28852,765,MERCEDES-BENZ,C 300,2015,Sedan,Yes,Petrol,2,54739 km,4,Automatic,Rear,4-May,Left wheel,White,12
 45809958,6275,494,NISSAN,March,2015,Hatchback,Yes,Petrol,1.2,80746 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45621693,7056,915,BMW,X5,2014,Jeep,Yes,Diesel,3,141384 km,6,Automatic,4x4,4-May,Left wheel,Blue,0
@@ -7060,7 +7058,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45790483,15681,585,HYUNDAI,Elantra,2013,Sedan,No,Petrol,1.8,102675 km,4,Automatic,Front,4-May,Left wheel,Black,0
 45772590,314,1017,MERCEDES-BENZ,E 300,2017,Sedan,Yes,Petrol,2,26802 km,4,Automatic,Rear,4-May,Left wheel,Black,12
 45642721,8781,431,FORD,Fusion,2016,Sedan,Yes,Hybrid,2,194974 km,4,Automatic,Front,4-May,Left wheel,Black,0
-45756797,31361,-,MERCEDES-BENZ,C 250 1.8 ტურბო,2013,Sedan,Yes,Petrol,1.8 Turbo,185000 km,4,Tiptronic,Rear,4-May,Left wheel,White,10
+45756797,31361,-,MERCEDES-BENZ,C 250 1.8,2013,Sedan,Yes,Petrol,1.8 Turbo,185000 km,4,Tiptronic,Rear,4-May,Left wheel,White,10
 45800513,17249,-,VOLKSWAGEN,Passat,2015,Sedan,Yes,Petrol,1.8 Turbo,65400 km,4,Tiptronic,Front,4-May,Left wheel,Golden,10
 45801457,13454,528,HYUNDAI,Accent,2014,Sedan,Yes,Diesel,1.6,49248 km,4,Automatic,Front,4-May,Left wheel,Silver,4
 45637397,8450,-,MERCEDES-BENZ,C 180,1999,Sedan,No,Petrol,1.8,218374 km,4,Manual,Rear,4-May,Left wheel,Silver,12
@@ -7161,7 +7159,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45792310,18189,638,KIA,Optima,2014,Sedan,Yes,Petrol,2,40801 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45809503,38182,595,HONDA,FIT,2015,Hatchback,Yes,Petrol,1.5,60539 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45773189,5488,1553,CHEVROLET,Avalanche,2013,Sedan,Yes,Petrol,5.3,186448 km,8,Automatic,Front,4-May,Left wheel,Black,12
-42597264,13172,-,HONDA,CR-Z ჰიბრიდი,2010,Coupe,No,Hybrid,1.5,185000 km,4,Tiptronic,Front,2-Mar,Left wheel,Blue,8
+42597264,13172,-,HONDA,CR-Z,2010,Coupe,No,Hybrid,1.5,185000 km,4,Tiptronic,Front,2-Mar,Left wheel,Blue,8
 45662057,31,490,HONDA,Insight,2011,Hatchback,Yes,Hybrid,1.3,198891 km,4,Automatic,Front,4-May,Left wheel,Grey,0
 45812599,470,781,VOLKSWAGEN,Golf,2012,Hatchback,Yes,Petrol,2.5,215747 km,5,Automatic,Front,4-May,Left wheel,Grey,12
 45789185,78403,-,LEXUS,RC F,2015,Coupe,Yes,Petrol,3.5,86000 km,6,Tiptronic,4x4,2-Mar,Left wheel,Grey,16
@@ -7945,7 +7943,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45789958,15367,642,KIA,Sportage,2012,Jeep,Yes,Diesel,2,98000 km,4,Automatic,Front,4-May,Left wheel,Silver,4
 45815363,8781,-,TOYOTA,Ist,2002,Hatchback,No,Petrol,1.5,117000 km,4,Automatic,4x4,4-May,Right-hand drive,Red,4
 45797987,16308,531,HYUNDAI,Elantra,2012,Sedan,Yes,Petrol,1.6,165294 km,4,Automatic,Front,4-May,Left wheel,Silver,4
-45775937,21639,639,MITSUBISHI,Outlander სპორტ,2014,Jeep,No,Petrol,2,82000 km,4,Automatic,4x4,4-May,Left wheel,White,8
+45775937,21639,639,MITSUBISHI,Outlander,2014,Jeep,No,Petrol,2,82000 km,4,Automatic,4x4,4-May,Left wheel,White,8
 45802749,27541,639,HYUNDAI,Santa FE,2014,Jeep,Yes,Diesel,2,8782 km,4,Automatic,Front,4-May,Left wheel,White,4
 45602503,3450,-,VOLKSWAGEN,Golf,1993,Hatchback,No,CNG,1.6,110000 km,4,Manual,Front,4-May,Left wheel,Silver,2
 45808456,8938,642,FORD,C-MAX,2012,Hatchback,No,Hybrid,2,144000 km,4,Automatic,Front,4-May,Left wheel,Grey,6
@@ -8577,7 +8575,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45758533,1333,777,NISSAN,Altima,2014,Sedan,Yes,Petrol,2.5,27656 km,4,Automatic,Front,4-May,Left wheel,Silver,12
 45669454,18189,-,TOYOTA,Prius,2012,Sedan,No,Hybrid,1.8,112000 km,4,Variator,Front,4-May,Left wheel,Grey,6
 45772599,784,2908,NISSAN,Armada,2008,Jeep,Yes,Petrol,5.6,360059 km,8,Automatic,Front,4-May,Left wheel,Black,12
-44528385,9408,-,BMW,318 რესტაილინგი,2004,Sedan,No,Petrol,1.9,81000 km,4,Tiptronic,Rear,4-May,Right-hand drive,Blue,6
+44528385,9408,-,BMW,318,2004,Sedan,No,Petrol,1.9,81000 km,4,Tiptronic,Rear,4-May,Right-hand drive,Blue,6
 45726881,22649,642,SSANGYONG,Korando,2012,Jeep,Yes,Diesel,2,140411 km,4,Automatic,Front,4-May,Left wheel,Grey,4
 45785521,12231,-,TOYOTA,Prius,2008,Sedan,No,Hybrid,1.5,244800 km,4,Automatic,Front,4-May,Left wheel,Green,6
 45531003,14740,490,HONDA,Insight,2011,Hatchback,Yes,Hybrid,1.3,246574 km,4,Variator,Front,4-May,Left wheel,Beige,6
@@ -9646,7 +9644,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45474391,8467,-,NISSAN,X-Terra,1999,Sedan,Yes,Petrol,5.9,210000 km,8,Automatic,Front,4-May,Left wheel,Black,12
 45769390,10349,1267,TOYOTA,Aqua,2013,Hatchback,No,Hybrid,1.5,129000 km,4,Automatic,Front,4-May,Right-hand drive,Silver,6
 45793301,20228,890,CHEVROLET,Orlando,2016,Jeep,Yes,Petrol,2,30179 km,4,Automatic,Front,4-May,Left wheel,White,4
-45813614,200,-,FORD,Transit პერეგაროტკა,1996,Microbus,Yes,Diesel,2.5,200000 km,4,Manual,Rear,>5,Left wheel,White,0
+45813614,200,-,FORD,Transit,1996,Microbus,Yes,Diesel,2.5,200000 km,4,Manual,Rear,>5,Left wheel,White,0
 45808917,8154,531,CHEVROLET,Aveo,2012,Hatchback,Yes,Petrol,1.6,74181 km,4,Automatic,Front,4-May,Left wheel,White,4
 45733376,9722,765,HYUNDAI,Sonata,2015,Sedan,Yes,LPG,2,362818 km,4,Automatic,Front,4-May,Left wheel,Orange,4
 45525662,13485,-,TOYOTA,Prius,2012,Sedan,No,Hybrid,1.8,0 km,4,Automatic,Front,4-May,Left wheel,White,12
@@ -10159,7 +10157,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45791035,28225,777,TOYOTA,RAV 4,2014,Jeep,Yes,Petrol,2.5,116442 km,4,Automatic,4x4,4-May,Left wheel,Grey,0
 45778228,13485,-,AUDI,A6,2008,Sedan,Yes,Petrol,3.2,268800 km,6,Tiptronic,4x4,4-May,Left wheel,Silver,8
 44961447,14740,-,TOYOTA,Corolla,2007,Sedan,No,Petrol,1.6,179000 km,4,Tiptronic,Front,4-May,Left wheel,Grey,0
-45787376,3800,-,OPEL,Vectra ბ,2001,Hatchback,Yes,Petrol,2.6,219200 km,6,Automatic,Front,4-May,Right-hand drive,Black,6
+45787376,3800,-,OPEL,Vectra,2001,Hatchback,Yes,Petrol,2.6,219200 km,6,Automatic,Front,4-May,Right-hand drive,Black,6
 45728412,53872,971,SSANGYONG,REXTON,2016,Jeep,Yes,Diesel,2.2,14950 km,4,Automatic,Front,4-May,Left wheel,Silver,4
 44266062,87811,-,TOYOTA,Camry,2018,Sedan,Yes,Petrol,3.5,18000 km,6,Automatic,Front,4-May,Left wheel,Black,10
 45801333,22580,650,CHEVROLET,Cruze,2016,Sedan,No,Petrol,1.4,64000 km,4,Tiptronic,Front,4-May,Left wheel,White,8
@@ -10241,7 +10239,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45774474,6899,-,MERCEDES-BENZ,C 200,2001,Sedan,Yes,CNG,2.0 Turbo,100000 km,4,Manual,Rear,4-May,Right-hand drive,Silver,10
 45802278,16778,862,HYUNDAI,H1,2011,Minivan,Yes,Diesel,2.5,45984 km,4,Automatic,Front,4-May,Left wheel,White,4
 45780702,20385,-,TOYOTA,Prius,2012,Hatchback,No,Hybrid,1.8,114458 km,4,Variator,Front,4-May,Left wheel,Silver,6
-44662044,17562,-,FIAT,500 Abarth ტურბო,2012,Sedan,No,Petrol,1.4 Turbo,100000 km,6,Manual,Front,2-Mar,Left wheel,Grey,6
+44662044,17562,-,FIAT,500 Abarth,2012,Sedan,No,Petrol,1.4 Turbo,100000 km,6,Manual,Front,2-Mar,Left wheel,Grey,6
 45765336,100,-,TOYOTA,VOXY,2003,Minivan,No,Petrol,2,200000 km,4,Automatic,Front,4-May,Right-hand drive,Silver,2
 45805051,35124,1017,AUDI,Q5,2017,Jeep,Yes,Petrol,2,0 km,4,Automatic,4x4,4-May,Left wheel,White,0
 45804415,26591,2108,LEXUS,LS 460,2009,Sedan,Yes,Petrol,4.6,132022 km,4,Automatic,Front,4-May,Left wheel,Silver,4
@@ -10960,7 +10958,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45803171,6272,836,HYUNDAI,Sonata,2010,Sedan,Yes,LPG,2,648045 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45656388,5959,645,TOYOTA,Prius,2011,Hatchback,Yes,Hybrid,1.8,489584 km,4,Automatic,Front,4-May,Left wheel,Grey,12
 45789860,7840,-,MITSUBISHI,Pajero,1992,Jeep,Yes,CNG,3,555555 km,6,Automatic,4x4,4-May,Left wheel,Silver,0
-43908515,19444,502,TOYOTA,Prius C ჰიბრიდი,2013,Hatchback,No,Hybrid,1.5,11000 km,4,Variator,Front,4-May,Left wheel,Green,12
+43908515,19444,502,TOYOTA,Prius C,2013,Hatchback,No,Hybrid,1.5,11000 km,4,Variator,Front,4-May,Left wheel,Green,12
 45807013,2500,-,ROVER,216,1997,Sedan,No,Petrol,1.6,162000 km,4,Manual,Front,4-May,Left wheel,Carnelian red,2
 45797664,20005,583,HYUNDAI,Elantra,2011,Sedan,Yes,Petrol,1.6,35951 km,4,Automatic,Front,4-May,Left wheel,Blue,4
 45766398,188,1659,TOYOTA,Tundra,2014,Jeep,Yes,Petrol,5.7,101928 km,8,Automatic,4x4,4-May,Left wheel,Black,12
@@ -11059,7 +11057,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45618041,2195,1850,MERCEDES-BENZ,E 350,2008,Sedan,Yes,Diesel,3.5,290922 km,6,Automatic,Rear,4-May,Left wheel,Silver,12
 45771909,470,629,FORD,Fiesta,2015,Sedan,Yes,Petrol,1.6,111374 km,4,Automatic,Front,4-May,Left wheel,Blue,12
 45590479,13799,707,HONDA,Elysion,2011,Minivan,Yes,Petrol,2,153000 km,4,Automatic,Front,4-May,Left wheel,Grey,8
-45800692,78403,-,LAND ROVER,Range Rover Evoque რესტა,2016,Jeep,Yes,Petrol,2.0 Turbo,59830 km,4,Tiptronic,4x4,4-May,Left wheel,White,12
+45800692,78403,-,LAND ROVER,Range Rover Evoque,2016,Jeep,Yes,Petrol,2.0 Turbo,59830 km,4,Tiptronic,4x4,4-May,Left wheel,White,12
 45787273,3136,-,MERCEDES-BENZ,SLK 32 AMG,2008,Sedan,Yes,Diesel,1.5,1000 km,8,Tiptronic,Front,2-Mar,Left wheel,Grey,5
 45803240,13172,891,HYUNDAI,Sonata,2016,Sedan,Yes,LPG,2,478704 km,4,Automatic,Front,4-May,Left wheel,Orange,4
 43375256,29793,-,MERCEDES-BENZ,E 350,2010,Sedan,Yes,Petrol,3.5,18000 km,6,Tiptronic,Rear,4-May,Left wheel,Black,12
@@ -11601,7 +11599,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45588228,20100,586,MERCEDES-BENZ,C 250,2012,Sedan,Yes,Petrol,1.8,96432 km,4,Tiptronic,Rear,4-May,Left wheel,White,12
 45809131,25089,502,TOYOTA,Aqua,2013,Hatchback,Yes,Petrol,1.5,83362 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45646689,2587,642,AUDI,A3,2012,Sedan,Yes,Diesel,2,174966 km,4,Automatic,Front,4-May,Left wheel,Black,12
-44405338,13485,862,VOLKSWAGEN,Jetta სასწაფოდ,2011,Sedan,Yes,Petrol,2.5,134400 km,4,Tiptronic,Front,4-May,Left wheel,Black,6
+44405338,13485,862,VOLKSWAGEN,Jetta,2011,Sedan,Yes,Petrol,2.5,134400 km,4,Tiptronic,Front,4-May,Left wheel,Black,6
 45769381,5802,1055,MERCEDES-BENZ,E 350,2013,Sedan,Yes,Diesel,3.5,107800 km,6,Automatic,Rear,4-May,Left wheel,Grey,12
 45810662,14740,645,CHEVROLET,Corvette,2011,Sedan,Yes,Petrol,1.8,117000 km,4,Tiptronic,Front,4-May,Left wheel,White,12
 45776580,23521,-,CHEVROLET,Malibu,2017,Sedan,Yes,Petrol,1.5 Turbo,53000 km,4,Tiptronic,Front,4-May,Left wheel,Blue,12
@@ -12243,7 +12241,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45803488,13172,891,HYUNDAI,Sonata,2016,Sedan,Yes,LPG,2,475406 km,4,Automatic,Front,4-May,Left wheel,Orange,4
 45540550,78403,-,MERCEDES-BENZ,C 300,2018,Sedan,Yes,Petrol,2.0 Turbo,10000 km,4,Tiptronic,Rear,4-May,Left wheel,White,12
 45624795,7997,1537,TOYOTA,Highlander,2009,Jeep,Yes,Hybrid,3.3,251278 km,6,Automatic,4x4,4-May,Left wheel,Green,12
-45789869,45473,919,MERCEDES-BENZ,GL 350 დიზელი,2012,Jeep,Yes,Diesel,3.0 Turbo,140200 km,6,Automatic,4x4,4-May,Left wheel,Grey,10
+45789869,45473,919,MERCEDES-BENZ,GL 350,2012,Jeep,Yes,Diesel,3.0 Turbo,140200 km,6,Automatic,4x4,4-May,Left wheel,Grey,10
 45816651,10976,-,AUDI,A4,2007,Sedan,Yes,Petrol,2.0 Turbo,224823 km,4,Tiptronic,4x4,4-May,Left wheel,White,0
 45782091,7997,761,TOYOTA,Prius,2010,Hatchback,No,Hybrid,1.8,153795 km,4,Variator,Front,4-May,Left wheel,Grey,10
 45811135,10976,-,TOYOTA,VOXY 2003,2003,Minivan,No,Petrol,2,195000 km,4,Automatic,Front,4-May,Right-hand drive,Silver,1
@@ -12364,7 +12362,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45659834,941,1646,LEXUS,GX 460,2015,Jeep,Yes,Petrol,4.6,188078 km,8,Automatic,4x4,4-May,Left wheel,Black,0
 45744805,7213,790,DAEWOO,Lacetti,2009,Sedan,Yes,Petrol,1.6,68111 km,4,Automatic,Front,4-May,Left wheel,Blue,4
 45803977,59504,891,HYUNDAI,Tucson,2016,Jeep,Yes,Diesel,2,32948 km,4,Automatic,Front,4-May,Left wheel,Orange,4
-45793405,6272,1109,MITSUBISHI,Pajero Mini 2008 წლიანი,2008,Jeep,No,Petrol,0.7 Turbo,166000 km,4,Automatic,4x4,2-Mar,Right-hand drive,Grey,4
+45793405,6272,1109,MITSUBISHI,Pajero Mini 2008,2008,Jeep,No,Petrol,0.7 Turbo,166000 km,4,Automatic,4x4,2-Mar,Right-hand drive,Grey,4
 45810563,20005,642,CHEVROLET,Orlando,2012,Jeep,Yes,Diesel,2,122050 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45809618,26949,527,HONDA,FIT,2015,Universal,Yes,Petrol,1.3,50927 km,4,Automatic,Front,4-May,Left wheel,Blue,4
 45782738,21326,-,MERCEDES-BENZ,E 280 3.0,2008,Sedan,No,Diesel,3.0 Turbo,32000 km,6,Tiptronic,Rear,>5,Left wheel,Silver,12
@@ -12671,7 +12669,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45713640,18817,-,MITSUBISHI,Pajero,2002,Jeep,No,Petrol,3,167000 km,6,Manual,4x4,2-Mar,Left wheel,Black,4
 45772349,40142,1811,LEXUS,GX 470,2010,Jeep,Yes,Petrol,4.6,357246 km,8,Automatic,4x4,4-May,Left wheel,Grey,0
 45785602,43905,917,BMW,535,2013,Sedan,Yes,Petrol,3.0 Turbo,118000 km,6,Tiptronic,Rear,4-May,Left wheel,White,10
-44695943,24148,-,TOYOTA,Aqua სასწრაფოდ,2014,Hatchback,Yes,Petrol,1.5,52000 km,4,Tiptronic,Front,4-May,Left wheel,Black,8
+44695943,24148,-,TOYOTA,Aqua,2014,Hatchback,Yes,Petrol,1.5,52000 km,4,Tiptronic,Front,4-May,Left wheel,Black,8
 45645939,1019,333,FORD,Fusion,2014,Sedan,Yes,Hybrid,2,0 km,4,Automatic,Front,4-May,Left wheel,Silver,0
 45775335,15897,697,VOLKSWAGEN,Jetta SE,2015,Sedan,No,Petrol,1.8 Turbo,51000 km,4,Tiptronic,Front,4-May,Left wheel,Silver,12
 45808406,2822,562,BUICK,Century,2015,Jeep,Yes,Petrol,1.4,107358 km,4,Automatic,Front,4-May,Left wheel,Black,12
@@ -13763,7 +13761,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 43022143,46728,765,HYUNDAI,Tucson,2015,Jeep,Yes,Diesel,2.0 Turbo,31000 km,4,Tiptronic,Front,4-May,Left wheel,Silver,12
 45779155,13485,503,TOYOTA,Prius C,2012,Hatchback,No,Hybrid,1.5,208000 km,4,Automatic,Front,4-May,Left wheel,White,6
 45801257,16935,-,TOYOTA,Prius,2011,Sedan,No,Hybrid,1.8,235000 km,4,Automatic,Front,4-May,Left wheel,Blue,0
-44975910,8781,-,MAZDA,Tribute სასწრაფოდ,2002,Jeep,Yes,Petrol,3,21000 km,4,Automatic,4x4,4-May,Left wheel,Golden,8
+44975910,8781,-,MAZDA,Tribute,2002,Jeep,Yes,Petrol,3,21000 km,4,Automatic,4x4,4-May,Left wheel,Golden,8
 45756946,12858,1363,LEXUS,GX 460,2012,Jeep,Yes,Petrol,4.6,255406 km,8,Automatic,4x4,4-May,Left wheel,Black,0
 45722848,7527,639,SUBARU,XV,2014,Jeep,Yes,Petrol,2,94000 km,4,Automatic,4x4,4-May,Left wheel,Black,8
 45641649,392,779,TOYOTA,Camry,2013,Sedan,Yes,Hybrid,2.5,232032 km,4,Automatic,Front,4-May,Left wheel,Silver,12
@@ -13887,7 +13885,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45793447,4077,1282,CHEVROLET,Captiva,2007,Jeep,Yes,Diesel,2,59136 km,4,Automatic,Front,4-May,Left wheel,Silver,4
 45797269,14454,583,HYUNDAI,I30,2011,Hatchback,Yes,Petrol,1.6,188244 km,4,Automatic,Front,4-May,Left wheel,White,4
 45788464,9722,-,BMW,325,2003,Sedan,No,Petrol,2.5,218000 km,6,Manual,Rear,4-May,Left wheel,Black,6
-44413913,18503,503,TOYOTA,Prius C ჰიბრიდი,2012,Hatchback,No,Hybrid,1.5,110000 km,4,Automatic,Front,4-May,Left wheel,Sky blue,12
+44413913,18503,503,TOYOTA,Prius C,2012,Hatchback,No,Hybrid,1.5,110000 km,4,Automatic,Front,4-May,Left wheel,Sky blue,12
 45768379,54568,1363,LEXUS,GX 460,2012,Jeep,Yes,Petrol,4.6,255406 km,8,Automatic,4x4,4-May,Left wheel,Black,0
 45813482,282,753,HYUNDAI,Sonata,2012,Sedan,Yes,Hybrid,2.4,277614 km,4,Automatic,Front,4-May,Left wheel,White,0
 45795553,9722,-,PEUGEOT,307,2007,Hatchback,No,Petrol,1.6,93000 km,4,Tiptronic,Front,4-May,Left wheel,Blue,4
@@ -14854,7 +14852,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45810487,29216,639,CHEVROLET,Orlando,2014,Jeep,Yes,Diesel,2,78083 km,4,Automatic,Front,4-May,Left wheel,White,4
 45771118,3763,629,NISSAN,Juke,2015,Jeep,Yes,Petrol,1.6,88475 km,4,Automatic,4x4,4-May,Left wheel,White,0
 45796837,16590,862,HYUNDAI,H1,2011,Minivan,Yes,Diesel,2.5,42415 km,4,Automatic,Front,4-May,Left wheel,White,4
-45720420,21000,810,VOLKSWAGEN,Jetta სპორტ,2016,Sedan,Yes,Petrol,1.8 Turbo,45707 km,4,Manual,Front,4-May,Left wheel,Grey,6
+45720420,21000,810,VOLKSWAGEN,Jetta,2016,Sedan,Yes,Petrol,1.8 Turbo,45707 km,4,Manual,Front,4-May,Left wheel,Grey,6
 45766096,1725,584,HYUNDAI,Elantra,2014,Sedan,Yes,Petrol,1.8,107155 km,4,Automatic,Front,4-May,Left wheel,Black,12
 45770138,627,1058,MERCEDES-BENZ,E 350,2012,Sedan,Yes,Diesel,3.5,318285 km,6,Automatic,4x4,4-May,Left wheel,Black,12
 45670858,25089,586,MERCEDES-BENZ,C 250,2012,Sedan,Yes,Petrol,1.8 Turbo,109000 km,4,Automatic,Rear,4-May,Left wheel,Red,12
@@ -16945,7 +16943,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45794492,8154,-,BMW,318,2001,Sedan,Yes,Petrol,1.9,240000 km,4,Manual,Rear,4-May,Left wheel,Silver,2
 45792172,13172,-,TOYOTA,RAV 4 L,2002,Jeep,No,Petrol,2,120000 km,4,Automatic,4x4,4-May,Left wheel,Grey,6
 45769483,392,831,HYUNDAI,Tucson,2011,Jeep,Yes,Petrol,2.4,179746 km,4,Automatic,Front,4-May,Left wheel,White,0
-45759306,20385,-,BMW,335 ტურბო,2007,Sedan,Yes,Petrol,3.5 Turbo,0 km,6,Tiptronic,Rear,4-May,Left wheel,Blue,8
+45759306,20385,-,BMW,335,2007,Sedan,Yes,Petrol,3.5 Turbo,0 km,6,Tiptronic,Rear,4-May,Left wheel,Blue,8
 45797999,15423,687,HYUNDAI,Elantra,2010,Sedan,Yes,Petrol,1.6,136496 km,4,Automatic,Front,4-May,Left wheel,Silver,4
 45815395,4234,353,TOYOTA,Prius,2015,Hatchback,Yes,Hybrid,1.8,123778 km,4,Automatic,Front,4-May,Left wheel,Grey,12
 45729870,27065,629,HYUNDAI,Elantra,2015,Sedan,Yes,Petrol,1.6,81036 km,4,Automatic,Front,4-May,Left wheel,White,4
@@ -16994,7 +16992,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45772201,1,1202,CHEVROLET,Lacetti,2006,Hatchback,No,Petrol,1.6,200000 km,4,Manual,Front,4-May,Left wheel,Black,2
 45730349,15718,1099,SSANGYONG,REXTON,2010,Jeep,Yes,Diesel,2.7,246600 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45706058,13291,586,TOYOTA,Prius,2012,Sedan,Yes,Hybrid,1.8,198400 km,4,Automatic,Front,4-May,Left wheel,Grey,0
-45776781,13172,1296,TOYOTA,Camry ჰიბრიდი,2008,Sedan,No,Hybrid,2.4,192000 km,4,Tiptronic,Front,4-May,Left wheel,Silver,12
+45776781,13172,1296,TOYOTA,Camry,2008,Sedan,No,Hybrid,2.4,192000 km,4,Tiptronic,Front,4-May,Left wheel,Silver,12
 45764927,157,1363,LEXUS,GX 460,2012,Jeep,Yes,Petrol,4.6,189704 km,8,Automatic,4x4,4-May,Left wheel,Grey,0
 45765459,706,503,HONDA,FIT,2012,Jeep,Yes,Petrol,1.5,277856 km,4,Automatic,Front,4-May,Left wheel,White,0
 45785346,36065,-,JEEP,Grand Cherokee,2011,Jeep,No,Petrol,3.6,103000 km,6,Tiptronic,4x4,4-May,Left wheel,Black,10
@@ -17631,7 +17629,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45785765,15681,-,VOLKSWAGEN,CC,2009,Sedan,Yes,Petrol,2.0 Turbo,194000 km,5,Tiptronic,Front,4-May,Left wheel,Silver,6
 45809383,2430,862,TOYOTA,Camry,2011,Sedan,Yes,Petrol,2.5,121952 km,4,Automatic,Front,4-May,Left wheel,Grey,12
 45652688,862,481,HYUNDAI,Sonata,2017,Sedan,Yes,Hybrid,2,138459 km,4,Automatic,Front,4-May,Left wheel,Silver,12
-45793304,5959,841,MITSUBISHI,Pajero Mini 2010 წლიანი,2010,Jeep,No,Petrol,0.7 Turbo,160000 km,4,Manual,4x4,2-Mar,Right-hand drive,Black,4
+45793304,5959,841,MITSUBISHI,Pajero Mini 2010,2010,Jeep,No,Petrol,0.7 Turbo,160000 km,4,Manual,4x4,2-Mar,Right-hand drive,Black,4
 45773479,1646,779,TOYOTA,Camry,2013,Sedan,Yes,Petrol,2.5,0 km,4,Automatic,Front,4-May,Left wheel,Silver,12
 42993777,15681,-,CHEVROLET,Impala,1973,Limousine,Yes,Petrol,5.7,100000 km,8,Automatic,Rear,4-May,Left wheel,Brown,0
 45770902,15994,1172,MERCEDES-BENZ,E 350,2011,Coupe,Yes,Diesel,3.5,170429 km,6,Automatic,Rear,2-Mar,Left wheel,Silver,12
@@ -17702,7 +17700,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45792171,20855,890,KIA,Optima,2016,Sedan,Yes,Petrol,2,31102 km,4,Automatic,Front,4-May,Left wheel,Black,4
 45803212,16935,1017,HYUNDAI,Sonata,2017,Sedan,Yes,LPG,2,227911 km,4,Automatic,Front,4-May,Left wheel,White,4
 45797434,9565,790,HYUNDAI,I30,2009,Hatchback,Yes,Petrol,1.6,56577 km,4,Automatic,Front,4-May,Left wheel,Red,4
-43908540,18189,586,TOYOTA,Prius ჰიბრიდი,2012,Hatchback,No,Hybrid,1.8,97000 km,4,Variator,Front,4-May,Left wheel,Carnelian red,12
+43908540,18189,586,TOYOTA,Prius,2012,Hatchback,No,Hybrid,1.8,97000 km,4,Variator,Front,4-May,Left wheel,Carnelian red,12
 45809061,9396,308,TOYOTA,Aqua,2015,Hatchback,Yes,Hybrid,1.5,160841 km,4,Automatic,Front,4-May,Left wheel,White,4
 45794563,16308,-,TOYOTA,Prius,2010,Hatchback,Yes,Hybrid,1.8,130000 km,4,Variator,Front,4-May,Left wheel,White,4
 45774105,627,1058,MERCEDES-BENZ,E 350,2012,Sedan,Yes,Diesel,3.5,318285 km,6,Automatic,4x4,4-May,Left wheel,Black,12
@@ -17827,7 +17825,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45730203,25889,528,HYUNDAI,Elantra,2014,Sedan,Yes,Petrol,1.6,131000 km,4,Automatic,Front,4-May,Left wheel,White,4
 45798064,14069,687,HYUNDAI,Elantra,2010,Sedan,Yes,Petrol,1.6,100403 km,4,Automatic,Front,4-May,Left wheel,White,4
 45789971,9252,961,KIA,Sportage,2009,Jeep,Yes,Diesel,2,53986 km,4,Automatic,Front,4-May,Left wheel,White,4
-43347134,8781,-,FORD,Escape სასწრაფოდ,2001,Jeep,Yes,Petrol,3.0 Turbo,199283 km,6,Automatic,4x4,4-May,Left wheel,Golden,6
+43347134,8781,-,FORD,Escape,2001,Jeep,Yes,Petrol,3.0 Turbo,199283 km,6,Automatic,4x4,4-May,Left wheel,Golden,6
 45768717,2100,-,NISSAN,March,2002,Sedan,No,Petrol,1.2,140000 km,2,Automatic,Front,4-May,Right-hand drive,Sky blue,0
 45649805,7997,1850,LEXUS,RX 400,2008,Jeep,Yes,Hybrid,3.5,244731 km,6,Automatic,Front,4-May,Left wheel,Black,12
 45789994,6611,1282,KIA,Sportage,2007,Jeep,Yes,Diesel,2,142654 km,4,Automatic,Front,4-May,Left wheel,Silver,4
@@ -18152,7 +18150,7 @@ ID,Price,Levy,Manufacturer,Model,Prod_year,Category,Leather_interior,Fuel_type,E
 45729634,28532,730,HYUNDAI,Elantra,2016,Sedan,Yes,Petrol,1.6,39770 km,4,Automatic,Front,4-May,Left wheel,Silver,4
 45767545,23521,1058,TOYOTA,Highlander,2012,Jeep,Yes,Petrol,3.5,140966 km,6,Automatic,4x4,4-May,Left wheel,Black,12
 45801978,18503,730,HYUNDAI,Elantra,2016,Sedan,Yes,LPG,1.6,31151 km,4,Automatic,Front,4-May,Left wheel,Silver,4
-44112939,24148,-,HYUNDAI,Sonata სასწრაფოდ,2014,Sedan,Yes,LPG,2,52764 km,4,Tiptronic,Front,4-May,Left wheel,Black,10
+44112939,24148,-,HYUNDAI,Sonata,2014,Sedan,Yes,LPG,2,52764 km,4,Tiptronic,Front,4-May,Left wheel,Black,10
 45768523,13172,-,CHEVROLET,Impala,2012,Sedan,No,Petrol,3.6,180000 km,6,Automatic,Front,4-May,Left wheel,Black,6
 45801843,37633,-,MERCEDES-BENZ,ML 350,2010,Jeep,Yes,Diesel,3.0 Turbo,230400 km,6,Tiptronic,4x4,4-May,Left wheel,Black,12
 45802788,47512,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,144333 km,4,Automatic,Front,4-May,Left wheel,White,4
